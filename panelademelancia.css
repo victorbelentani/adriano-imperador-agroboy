@@ -1,0 +1,7 @@
+body{
+    background: rgb(31,87,33);
+        background: linear-gradient(90deg, rgba(31,87,33,1) 0%, rgba(20,113,0,1) 33%, rgba(86,236,108,1) 100%);}
+    
+.agri{
+    width: 600px;
+}        
